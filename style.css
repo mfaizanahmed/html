@@ -1,0 +1,14 @@
+a img {
+		width:150px;
+		height:150px;
+		float:right;
+		border: 5px solid blue
+		}
+		
+#twitter {
+	border: 5px solid pink
+}
+.social {
+	border: 5px solid red;
+	border-radius: 100%
+}		
